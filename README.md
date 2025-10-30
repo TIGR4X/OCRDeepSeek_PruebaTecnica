@@ -8,7 +8,16 @@ Permite subir imágenes o PDFs, seleccionar el tipo de tarea y obtener el texto 
 
 ```bash
 python -m venv venv
+```
+Linux
+```bash
 source venv/bin/activate
+```
+Windows
+```bash
+.\venv\Scripts\activate
+```
+```bash
 pip install -r requirements.txt
 python app.py
 ```
