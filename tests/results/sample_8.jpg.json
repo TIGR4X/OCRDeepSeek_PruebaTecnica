@@ -1,0 +1,21 @@
+{
+  "image": "C:\\Users\\Leon Maya\\Desktop\\PRUEBA_TECNICA\\OCRDeepSeek_PruebaTecnica\\tests\\samples\\sample_8.jpg",
+  "status_code": 200,
+  "time_s": 11.411746099940501,
+  "payload": {
+    "extra": {
+      "mode": "Gundam",
+      "status": "ok",
+      "task": "🔍 Describe"
+    },
+    "raw_output": [
+      "The image displays a section of text with a focus on a specific line of a document. The text is in Spanish and pertains to a sample document with OCR (Optical Character Recognition) errors. The document is titled \"Sample #8 - Prueba OCR\" and lists six lines, each with a corresponding error number. The errors are as follows:\n\n1. \"Linea 1 del documento de prueba. Valor: 700\"\n2. \"Linea 2 del documento de prueba. Valor: 701\"\n3. \"Linea 3 del documento de prueba. Valor: 702\"\n4. \"Linea 4 del documento de prueba. Valor: 703\"\n5. \"Linea 5 del documento de prueba. Valor: 704\"\n6. \"Linea 6 del documento de prueba. Valor: 705\"\n\nThe text is presented in a clear, black font on a white background. The errors are highlighted with a red box around the line numbers, indicating the specific line that has the OCR error. The text is aligned to the left and there are no other discernible elements or objects in the image.",
+      "The image displays a section of text with a focus on a specific line of a document. The text is in Spanish and pertains to a sample document with OCR (Optical Character Recognition) errors. The document is titled \"Sample #8 - Prueba OCR\" and lists six lines, each with a corresponding error number. The errors are as follows:\n\n1. \"Linea 1 del documento de prueba. Valor: 700\"\n2. \"Linea 2 del documento de prueba. Valor: 701\"\n3. \"Linea 3 del documento de prueba. Valor: 702\"\n4. \"Linea 4 del documento de prueba. Valor: 703\"\n5. \"Linea 5 del documento de prueba. Valor: 704\"\n6. \"Linea 6 del documento de prueba. Valor: 705\"\n\nThe text is presented in a clear, black font on a white background. The errors are highlighted with a red box around the line numbers, indicating the specific line that has the OCR error. The text is aligned to the left and there are no other discernible elements or objects in the image.",
+      "The image displays a section of text with a focus on a specific line of a document. The text is in Spanish and pertains to a sample document with OCR (Optical Character Recognition) errors. The document is titled \"Sample #8 - Prueba OCR\" and lists six lines, each with a corresponding error number. The errors are as follows:\n\n1. \"Linea 1 del documento de prueba. Valor: 700\"\n2. \"Linea 2 del documento de prueba. Valor: 701\"\n3. \"Linea 3 del documento de prueba. Valor: 702\"\n4. \"Linea 4 del documento de prueba. Valor: 703\"\n5. \"Linea 5 del documento de prueba. Valor: 704\"\n6. \"Linea 6 del documento de prueba. Valor: 705\"\n\nThe text is presented in a clear, black font on a white background. The errors are highlighted with a red box around the line numbers, indicating the specific line that has the OCR error. The text is aligned to the left and there are no other discernible elements or objects in the image.",
+      null,
+      []
+    ],
+    "text": "The image displays a section of text with a focus on a specific line of a document. The text is in Spanish and pertains to a sample document with OCR (Optical Character Recognition) errors. The document is titled \"Sample #8 - Prueba OCR\" and lists six lines, each with a corresponding error number. The errors are as follows:\n\n1. \"Linea 1 del documento de prueba. Valor: 700\"\n2. \"Linea 2 del documento de prueba. Valor: 701\"\n3. \"Linea 3 del documento de prueba. Valor: 702\"\n4. \"Linea 4 del documento de prueba. Valor: 703\"\n5. \"Linea 5 del documento de prueba. Valor: 704\"\n6. \"Linea 6 del documento de prueba. Valor: 705\"\n\nThe text is presented in a clear, black font on a white background. The errors are highlighted with a red box around the line numbers, indicating the specific line that has the OCR error. The text is aligned to the left and there are no other discernible elements or objects in the image."
+  },
+  "response_size": 3909
+}

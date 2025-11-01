@@ -1,0 +1,11 @@
+image,status_code,time_s,response_size
+C:\Users\Leon Maya\Desktop\PRUEBA_TECNICA\OCRDeepSeek_PruebaTecnica\tests\samples\sample_1.jpg,200,13.756427599932067,5641
+C:\Users\Leon Maya\Desktop\PRUEBA_TECNICA\OCRDeepSeek_PruebaTecnica\tests\samples\sample_2.jpg,200,16.087962400051765,10389
+C:\Users\Leon Maya\Desktop\PRUEBA_TECNICA\OCRDeepSeek_PruebaTecnica\tests\samples\sample_3.jpg,200,9.169118599966168,4193
+C:\Users\Leon Maya\Desktop\PRUEBA_TECNICA\OCRDeepSeek_PruebaTecnica\tests\samples\sample_4.jpg,200,8.04143430001568,3737
+C:\Users\Leon Maya\Desktop\PRUEBA_TECNICA\OCRDeepSeek_PruebaTecnica\tests\samples\sample_5.jpg,200,13.363982199924067,8341
+C:\Users\Leon Maya\Desktop\PRUEBA_TECNICA\OCRDeepSeek_PruebaTecnica\tests\samples\sample_6.jpg,200,10.304063600022346,4801
+C:\Users\Leon Maya\Desktop\PRUEBA_TECNICA\OCRDeepSeek_PruebaTecnica\tests\samples\sample_7.jpg,200,9.455648700008169,4321
+C:\Users\Leon Maya\Desktop\PRUEBA_TECNICA\OCRDeepSeek_PruebaTecnica\tests\samples\sample_8.jpg,200,11.411746099940501,3909
+C:\Users\Leon Maya\Desktop\PRUEBA_TECNICA\OCRDeepSeek_PruebaTecnica\tests\samples\sample_9.jpg,200,8.552251199958846,4137
+C:\Users\Leon Maya\Desktop\PRUEBA_TECNICA\OCRDeepSeek_PruebaTecnica\tests\samples\sample_10.jpg,200,12.737770300009288,7469
