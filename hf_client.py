@@ -8,10 +8,11 @@ SPACE_NAME = os.getenv("HF_SPACE", "merterbak/DeepSeek-OCR-Demo")
 client = Client(SPACE_NAME)
 
 
-def process_ocr(file_path: str, mode: str = "⚡ Gundam", task: str = "📋 Markdown", custom_prompt: str = "Extract text"):
+def process_ocr(file_path: str, mode: str = "Gundam", task: str = "📋 Markdown", custom_prompt: str = "Extract text"):
     """
-    Envía un archivo (imagen o PDF) al modelo OCR de Hugging Face y devuelve el resultado.
+        Envía un archivo (imagen o PDF) al modelo OCR de Hugging Face y devuelve el resultado.
     """
+    
     try:
         result = client.predict(
             image=None,  # opcional, el modelo acepta imagen o PDF

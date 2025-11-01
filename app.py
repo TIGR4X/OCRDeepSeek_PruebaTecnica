@@ -24,9 +24,9 @@ def api_ocr():
     filepath = os.path.join(UPLOAD_FOLDER, file.filename)
     file.save(filepath)
 
-    task = request.form.get("task", "📋 Markdown")
-    mode = request.form.get("mode", "⚡ Gundam")
-    prompt = request.form.get("prompt", "Extract text")
+    task = request.form.get("🔍 Describe", "🔍 Describe")
+    mode = request.form.get("mode", "Gundam")
+    prompt = request.form.get("prompt", "Prompt Personalizado")
 
     result = process_ocr(filepath, mode=mode, task=task, custom_prompt=prompt)
     return jsonify(result)
